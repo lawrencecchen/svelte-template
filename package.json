@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@supabase/supabase-js": "^1.22.5",
+    "@sveltejs/adapter-vercel": "^1.0.0-next.28",
     "@sveltejs/kit": "next",
     "@tailwindcss/aspect-ratio": "^0.2.1",
     "@tailwindcss/forms": "^0.3.3",
